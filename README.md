@@ -45,9 +45,9 @@ Install the following tools:
 
 - Git
 - Node.js and npm
-- Java Development Kit (JDK), compatible with the backend configuration
+- Java Development Kit (JDK)21 , compatible with the backend configuration
 - MySQL Server
-- MySQL Workbench
+- MySQL Workbench 8.0.4
 
 ### 1. Clone the Repository
 
